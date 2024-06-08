@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 
 from configuracion import engine
 
-
+# Esto es una superclase que necesitan todas las clases que se vinculan con SQLAlchemy
 from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
 

@@ -22,6 +22,7 @@ for s in docentes:
     print("%s" % (s))
     print("---------")
 
+# Imprimimos todos los objetos segun la funcion que tiene cada uno
 # Obtener todos los registros de
 # la tabla docentes que tengan como valor en
 # el atributo especifico
